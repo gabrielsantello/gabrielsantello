@@ -1,9 +1,11 @@
-## 👋 Hi, I’m Gabriel Santello and this is my Data Science / Machine Learning repository! 📊
+## Hello, I’m Gabriel Santello, and this is my Data Engineering, Data Science and Machine Learning repository!
 
-Regarding my background / experience:
-- 📚 I have a degree in information technology, another degree in biology and a master's degree.
-- 🎒 I've been studying Data Science / Machine Learning since 2019.
-- 👷 I've worked in some multinational companies such as John Deere and Kyndryl.
+Let me share a bit about my background and experience:
+- 📚 I hold degrees in both Information Technology and Biology. Additionally, I have a master’s degree.
+- 🎒 Since 2019, I’ve been dedicated to studying Data Science, Machine Learning, and now Data Engineering.
+- 👷 I’ve had the privilege of working with multinational companies such as John Deere, Kyndryl and Regeneron.
+
+Feel free to explore my repository and discover the exciting projects I’ve been involved in! 🚀🔍📊
 
 <div style="display: inline_block" align="center"><br>
   <center>
@@ -46,4 +48,9 @@ Badges - https://dev.to/envoy_/150-badges-for-github-pnk
 Badges 2 - https://github.com/alexandresanlim/Badges4-README.md-Profile
 Kaggle Badge - https://github.com/subinium/kaggle-badge
 Stats - https://github.com/anuraghazra/github-readme-stats
+## 👋 Hi, I’m Gabriel Santello and this is my Data Science / Machine Learning repository! 📊
+Regarding my background / experience:
+- 📚 I have a degree in information technology, another degree in biology and a master's degree.
+- 🎒 I've been studying Data Science / Machine Learning since 2019.
+- 👷 I've worked in some multinational companies such as John Deere and Kyndryl.
 --->
