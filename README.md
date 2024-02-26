@@ -9,21 +9,20 @@ Feel free to explore my repository and discover the exciting projects I’ve bee
 
 <div style="display: inline_block" align="center"><br>
   <center>
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img style="background-color:#FFF" align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img style="background-color:#FFF" align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img style="background-color:#FFF" align="center" alt="PostGres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="center" alt="Kaggle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
-  <img align="center" alt="Power BI" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img style="background-color:#FFF" align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img style="background-color:#FFF" align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img style="background-color:#FFF" align="center" alt="PostGres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </center>
 </div>
   
   ##
  
 <div align="center"> 
-  <a href="https://www.kaggle.com/gabrielsantello" target="_blank"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/adldotori" target="_blank" height="29"></a>
+  <a href="https://www.kaggle.com/gabrielsantello" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" height="29"></a>
   <a href = "mailto:gvsantello@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielsantello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -32,25 +31,17 @@ Feel free to explore my repository and discover the exciting projects I’ve bee
  
 <div align="center">
   <a href="https://github.com/gabrielsantello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantello&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantello&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!---
-gabrielsantello/gabrielsantello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
 Emojis - https://gist.github.com/rxaviers/7360908
 Icons - https://devicon.dev/
 Microsoft Icons - https://github.com/microsoft/PowerBI-Icons
 Badges - https://dev.to/envoy_/150-badges-for-github-pnk
 Badges 2 - https://github.com/alexandresanlim/Badges4-README.md-Profile
+Badges 3 - https://github.com/danmadeira/simple-icon-badges
+Badges 4 - https://github.com/Ileriayo/markdown-badges
+Badges 5 - https://home.aveek.io/GitHub-Profile-Badges/
 Kaggle Badge - https://github.com/subinium/kaggle-badge
 Stats - https://github.com/anuraghazra/github-readme-stats
-## 👋 Hi, I’m Gabriel Santello and this is my Data Science / Machine Learning repository! 📊
-Regarding my background / experience:
-- 📚 I have a degree in information technology, another degree in biology and a master's degree.
-- 🎒 I've been studying Data Science / Machine Learning since 2019.
-- 👷 I've worked in some multinational companies such as John Deere and Kyndryl.
 --->
