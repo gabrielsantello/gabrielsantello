@@ -5,7 +5,7 @@ Let me share a bit about my background and experience:
 - 🎒 Since 2019, I’ve been dedicated to studying Data Science, Machine Learning, and now Data Engineering.
 - 👷 I’ve had the privilege of working with multinational companies such as John Deere, Kyndryl and Regeneron.
 
-Feel free to explore my repository and discover the exciting projects I’ve been involved in! 🚀🔍📊
+Feel free to explore my repository and discover the projects I’ve been involved in! 🚀🔍📊
 
 <div style="display: inline_block" align="center"><br>
   <center>
@@ -18,7 +18,13 @@ Feel free to explore my repository and discover the exciting projects I’ve bee
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </center>
 </div>
-  
+
+<div style="display: inline_block" align="center"><br>
+  <center>
+  <img align="center" alt="Pre-commit" src="https://img.shields.io/badge/pre--commit-%23FAB040.svg?&style=for-the-badge&logo=pre-commit&logoColor=black" />
+  </center>
+</div>
+
   ##
  
 <div align="center"> 
