@@ -16,13 +16,11 @@ Feel free to explore my repository and discover the projects I’ve been involve
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
     <img align="center" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white" />
     <img align="center" alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white" />
-    <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
   </center>
 </div>
 
 <div style="display: inline_block" align="center"><br>
   <center>
-    <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" />
     <img align="center" alt="Pre-commit" src="https://img.shields.io/badge/pre--commit-%23FAB040.svg?&style=for-the-badge&logo=pre-commit&logoColor=black" />
     <img align="center" alt="Poetry" src="https://img.shields.io/badge/Poetry-60A5FA.svg?style=for-the-badge&logo=Poetry&logoColor=white" />
     <img align="center" alt="PostGres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -35,15 +33,22 @@ Feel free to explore my repository and discover the projects I’ve been involve
 
 <div style="display: inline_block" align="center"><br>
   <center>
-    <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
+    <img align="center" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" />
     <img align="center" alt="Kibana" src="https://img.shields.io/badge/Kibana-005571.svg?style=for-the-badge&logo=Kibana&logoColor=white" />
-    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white" />
     <img align="center" alt="Sharepoint" src="https://img.shields.io/badge/Microsoft%20SharePoint-0078D4.svg?style=for-the-badge&logo=Microsoft-SharePoint&logoColor=white" />
   </center>
 </div>
 
-  ##
+<div style="display: inline_block" align="center"><br>
+  <center>
+    <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </center>
+</div>
+
+  ## Contact details:
  
 <div align="center"> 
   <a href="https://www.kaggle.com/gabrielsantello" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
