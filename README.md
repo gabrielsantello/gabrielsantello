@@ -22,8 +22,8 @@ Let me share a bit about my background and experience:
     <img align="center" alt="Pre-commit" src="https://img.shields.io/badge/pre--commit-%23FAB040.svg?&style=for-the-badge&logo=pre-commit&logoColor=black" />
     <img align="center" alt="Poetry" src="https://img.shields.io/badge/Poetry-60A5FA.svg?style=for-the-badge&logo=Poetry&logoColor=white" />
     <img align="center" alt="PostGres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img align="center" alt="Polars" src="https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=Polars&logoColor=white" />
     <img align="center" alt="Pydantic" src="https://img.shields.io/badge/Pydantic-E92063.svg?style=for-the-badge&logo=Pydantic&logoColor=white" />
+    <img align="center" alt="Polars" src="https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=Polars&logoColor=white" />
     <img align="center" alt="Dask" src="https://img.shields.io/badge/Dask-FC6E6B.svg?style=for-the-badge&logo=Dask&logoColor=white" />
     <img align="center" alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   </center>
@@ -40,6 +40,7 @@ Let me share a bit about my background and experience:
 
 <div style="display: inline_block" align="center"><br>
   <center>
+    <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" />
     <img align="center" alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white" />
     <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white" />
     <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
